@@ -27,7 +27,7 @@ public class MatrixTest {
     */
 
     // TODO: Uncomment testcase to test indexOfRowsWithZeros method.
-    /*
+/*
     @Test
     public void testIndexOfRowsWithZeros() {
         int[][] matrix = {
@@ -43,5 +43,5 @@ public class MatrixTest {
         assertEquals(1, actual.size());
         assertTrue(actual.contains(4));
     }
-    */
+*/
 }

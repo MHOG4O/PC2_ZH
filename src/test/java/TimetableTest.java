@@ -6,7 +6,7 @@ import static org.junit.Assert.assertTrue;
 public class TimetableTest {
 
     // TODO: Uncomment testcase to test newCourse method.
-    /*
+/*
     @Test
     public void testNewCourse() {
         Timetable timetable = new Timetable();
@@ -24,10 +24,10 @@ public class TimetableTest {
         timetable.newCourse(course3);
         assertEquals(course1 + " -\r\n" + course2 + " -", timetable.getCourses());
     }
-    */
+   */
 
     // TODO: Uncomment testcase to test removeCourse method.
-    /*
+/*
     @Test
     public void testRemoveCourse() {
         Timetable timetable = new Timetable();
@@ -51,7 +51,7 @@ public class TimetableTest {
         timetable.removeCourse(course2);
         assertTrue(timetable.getCourses().isEmpty());
     }
-    */
+  */
 
     // TODO: Uncomment testcase to test setTimestamp method.
     /*
